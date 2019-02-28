@@ -1,0 +1,7 @@
+C:\Paul Mc Donagh\Tutorials General\MultithreadingExample\ThreadingDeadlock\obj\Debug\ThreadingDeadlock.csproj.CoreCompileInputs.cache
+C:\Paul Mc Donagh\Tutorials General\MultithreadingExample\ThreadingDeadlock\bin\Debug\ThreadingDeadlock.exe.config
+C:\Paul Mc Donagh\Tutorials General\MultithreadingExample\ThreadingDeadlock\bin\Debug\ThreadingDeadlock.exe
+C:\Paul Mc Donagh\Tutorials General\MultithreadingExample\ThreadingDeadlock\bin\Debug\ThreadingDeadlock.pdb
+C:\Paul Mc Donagh\Tutorials General\MultithreadingExample\ThreadingDeadlock\obj\Debug\ThreadingDeadlock.exe
+C:\Paul Mc Donagh\Tutorials General\MultithreadingExample\ThreadingDeadlock\obj\Debug\ThreadingDeadlock.pdb
+C:\Paul Mc Donagh\Tutorials General\MultithreadingExample\ThreadingDeadlock\obj\Debug\ThreadingDeadlock.csprojAssemblyReference.cache

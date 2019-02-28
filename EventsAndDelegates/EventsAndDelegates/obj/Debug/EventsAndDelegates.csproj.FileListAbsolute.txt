@@ -1,0 +1,7 @@
+C:\Paul Mc Donagh\Tutorials General\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+C:\Paul Mc Donagh\Tutorials General\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+C:\Paul Mc Donagh\Tutorials General\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+C:\Paul Mc Donagh\Tutorials General\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csprojAssemblyReference.cache
+C:\Paul Mc Donagh\Tutorials General\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Paul Mc Donagh\Tutorials General\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+C:\Paul Mc Donagh\Tutorials General\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb
