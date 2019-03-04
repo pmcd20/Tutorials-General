@@ -1,4 +1,4 @@
-Example Tutorial i reporduced.
+Example Tutorial i reproduced.
 Made from IamTimCorey
 https://www.youtube.com/watch?v=aWePkE2ReGw
 
@@ -7,7 +7,7 @@ i just used Window Forms instead.
 
 Built in Framework 4.5 in Visual Studio 2017
 
-Example Shows connection to two differt apis using  a api static helper class.
+Example Shows connection to two different apis using an api static helper class.
 
 Api 1: Returns image based on number passed in. Where no number porvided it gets the latest. 
 https://xkcd.com/info.0.json
@@ -18,4 +18,4 @@ Retrieves Sunrise and Sunset times based on lat and long input in connection
 https://api.sunrise-sunset.org/json?lat=51.50763954502314&lng=-3.881057118269383
 
 
-Focus on the project was not the display but about retrieving the Json data. 
+Focus on the project was not the display but about retrieving the Json data. So ignore my lovely layout :)
