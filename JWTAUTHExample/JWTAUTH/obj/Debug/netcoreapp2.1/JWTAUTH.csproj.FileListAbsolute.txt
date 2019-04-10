@@ -1,0 +1,13 @@
+C:\Paul Mc Donagh\JWT\JWTAUTHExample\JWTAUTH\bin\Debug\netcoreapp2.1\JWTAUTH.deps.json
+C:\Paul Mc Donagh\JWT\JWTAUTHExample\JWTAUTH\bin\Debug\netcoreapp2.1\JWTAUTH.runtimeconfig.json
+C:\Paul Mc Donagh\JWT\JWTAUTHExample\JWTAUTH\bin\Debug\netcoreapp2.1\JWTAUTH.runtimeconfig.dev.json
+C:\Paul Mc Donagh\JWT\JWTAUTHExample\JWTAUTH\bin\Debug\netcoreapp2.1\JWTAUTH.dll
+C:\Paul Mc Donagh\JWT\JWTAUTHExample\JWTAUTH\bin\Debug\netcoreapp2.1\JWTAUTH.pdb
+C:\Paul Mc Donagh\JWT\JWTAUTHExample\JWTAUTH\obj\Debug\netcoreapp2.1\JWTAUTH.csproj.CoreCompileInputs.cache
+C:\Paul Mc Donagh\JWT\JWTAUTHExample\JWTAUTH\obj\Debug\netcoreapp2.1\JWTAUTH.RazorAssemblyInfo.cache
+C:\Paul Mc Donagh\JWT\JWTAUTHExample\JWTAUTH\obj\Debug\netcoreapp2.1\JWTAUTH.RazorAssemblyInfo.cs
+C:\Paul Mc Donagh\JWT\JWTAUTHExample\JWTAUTH\obj\Debug\netcoreapp2.1\JWTAUTH.AssemblyInfoInputs.cache
+C:\Paul Mc Donagh\JWT\JWTAUTHExample\JWTAUTH\obj\Debug\netcoreapp2.1\JWTAUTH.AssemblyInfo.cs
+C:\Paul Mc Donagh\JWT\JWTAUTHExample\JWTAUTH\obj\Debug\netcoreapp2.1\JWTAUTH.RazorTargetAssemblyInfo.cache
+C:\Paul Mc Donagh\JWT\JWTAUTHExample\JWTAUTH\obj\Debug\netcoreapp2.1\JWTAUTH.dll
+C:\Paul Mc Donagh\JWT\JWTAUTHExample\JWTAUTH\obj\Debug\netcoreapp2.1\JWTAUTH.pdb
