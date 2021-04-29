@@ -1,0 +1,16 @@
+C:\Paul\Pmc\cSharpDemo\FuncDelegate\FuncDelegate\bin\Debug\net5.0\FuncDelegate.exe
+C:\Paul\Pmc\cSharpDemo\FuncDelegate\FuncDelegate\bin\Debug\net5.0\FuncDelegate.deps.json
+C:\Paul\Pmc\cSharpDemo\FuncDelegate\FuncDelegate\bin\Debug\net5.0\FuncDelegate.runtimeconfig.json
+C:\Paul\Pmc\cSharpDemo\FuncDelegate\FuncDelegate\bin\Debug\net5.0\FuncDelegate.runtimeconfig.dev.json
+C:\Paul\Pmc\cSharpDemo\FuncDelegate\FuncDelegate\bin\Debug\net5.0\FuncDelegate.dll
+C:\Paul\Pmc\cSharpDemo\FuncDelegate\FuncDelegate\bin\Debug\net5.0\ref\FuncDelegate.dll
+C:\Paul\Pmc\cSharpDemo\FuncDelegate\FuncDelegate\bin\Debug\net5.0\FuncDelegate.pdb
+C:\Paul\Pmc\cSharpDemo\FuncDelegate\FuncDelegate\obj\Debug\net5.0\FuncDelegate.csprojAssemblyReference.cache
+C:\Paul\Pmc\cSharpDemo\FuncDelegate\FuncDelegate\obj\Debug\net5.0\FuncDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Paul\Pmc\cSharpDemo\FuncDelegate\FuncDelegate\obj\Debug\net5.0\FuncDelegate.AssemblyInfoInputs.cache
+C:\Paul\Pmc\cSharpDemo\FuncDelegate\FuncDelegate\obj\Debug\net5.0\FuncDelegate.AssemblyInfo.cs
+C:\Paul\Pmc\cSharpDemo\FuncDelegate\FuncDelegate\obj\Debug\net5.0\FuncDelegate.csproj.CoreCompileInputs.cache
+C:\Paul\Pmc\cSharpDemo\FuncDelegate\FuncDelegate\obj\Debug\net5.0\FuncDelegate.dll
+C:\Paul\Pmc\cSharpDemo\FuncDelegate\FuncDelegate\obj\Debug\net5.0\ref\FuncDelegate.dll
+C:\Paul\Pmc\cSharpDemo\FuncDelegate\FuncDelegate\obj\Debug\net5.0\FuncDelegate.pdb
+C:\Paul\Pmc\cSharpDemo\FuncDelegate\FuncDelegate\obj\Debug\net5.0\FuncDelegate.genruntimeconfig.cache
